@@ -1,5 +1,4 @@
 # Driver-Cheat-Engine
-Q群：984710089
 一个可以帮助你逆向的工具
 原作者：Dark Byte  
 修改：DrunkenDream  
